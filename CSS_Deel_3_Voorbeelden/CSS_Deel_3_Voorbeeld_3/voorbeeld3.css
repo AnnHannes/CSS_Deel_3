@@ -1,0 +1,31 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    font-family: verdana, sans-serif;
+}
+
+span {
+    font-weight: bold;
+}
+
+#container {
+    width: 50%;
+    background-color: #56658d;
+    color: #fff;
+    margin: 0px auto;
+}
+
+#een {
+    width: 50%;
+    background-color: #9aa3b4;
+    color: black;
+}
+
+#twee {
+    width: 50%;
+    background-color: #d7ddea;
+    color: black;
+}
