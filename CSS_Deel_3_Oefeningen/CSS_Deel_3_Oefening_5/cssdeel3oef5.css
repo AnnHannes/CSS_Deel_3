@@ -1,1 +1,68 @@
+* {
+    margin: 0;
+    padding: 0;
+}
 
+body {
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 14px;
+}
+
+h2 {
+    padding-bottom: 35px;
+}
+
+
+article {
+    padding: 20px;
+    background-color: white;
+}
+
+nav {
+    padding: 20px;
+    background-color: red;
+    color: white;
+}
+
+aside {
+    padding: 20px;
+    background-color: #ccc;
+    color: #000;
+}
+
+header,
+footer {
+    padding: 20px;
+    background-color: #000;
+    color: #fff;
+}
+
+p {
+    padding: 20px;
+}
+
+ul {
+    margin-left: 35px;
+}
+
+span {
+    position: relative;
+    top: 25px;
+    font-size: 30px;
+    background-color: #666;
+    padding: 10px;
+}
+
+nav a {
+    color: #fff;
+    background-color: inherit;
+}
+
+nav ul {
+    margin-left: 15px;
+}
+
+figcaption {
+    background-color: #000;
+    color: #fff;
+}
